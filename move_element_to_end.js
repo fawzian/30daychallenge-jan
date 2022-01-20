@@ -13,4 +13,3 @@ function moveElementToEnd(array, toMove) {
       console.log(nArr, sArr)
       return [...nArr, ...sArr]
   }
-  
